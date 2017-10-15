@@ -15,4 +15,4 @@ Two seconds were subtrated from self.TIMER_THRESHOLD in order to prevent any gam
 ### Conclusion
 The Custom Score heuristic that combines the heuristics that reward aggresive game play and optimizing the amount of legal next moves performed the best. I believe this heuristic performed well as it attempted to maximize the number of legal moves the player has available (the more choices the more likely you to win) while actively trying to minimize the opponent's options with aggresive game play. This heuristic performed at 72 to 75% efficacy compared to the other heuristics that ranged from 55 to 65%.
 
-![Results](result_view_copy.png)
+![Results](./result_view_copy.png)
